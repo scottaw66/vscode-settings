@@ -2,4 +2,4 @@
 
 ## Font
 
-Anonymous Pro
+- [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
